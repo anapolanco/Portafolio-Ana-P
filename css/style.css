@@ -1,0 +1,103 @@
+body{
+	font-family: Trebuchet MS;
+	font-size: 15px;
+	color: white;
+}
+
+header{
+	background-color: black;
+	padding: 20px;
+}
+
+#inicio{
+	background-image: url("../img/marketingonline.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: black;
+	padding: 10% 0;
+	text-align: center;
+}
+
+#inicio p{
+	color: black;
+	font-size: 35px;
+	font-weight: 800;
+}
+
+#yo{
+	background-color: black;
+	
+}
+
+#yo img{
+	border-radius: 20px 20px;
+	margin: 20px 10px;
+}
+
+#yo p{
+	color: white;
+	font-size: 20px;
+}
+
+#yo h2{
+	text-align: center;
+	color: deeppink;
+}
+.yo-info{
+	padding: 100px 50px;
+	
+}
+
+#servicios{
+	background-color: black;
+	padding: 30px;
+	
+}
+
+#servicios h4{
+	color: deeppink;
+	text-align: center;
+	padding: 10px 10px;
+}
+
+#servicios-inicio{
+	background-image:url("../img/creative-team-job-young-business-man-working-with-startup-project-analyse-graph-plans-discuss-workspace-office-brainstorm-meeting-concept_1423-1470.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: black;
+	color: black;
+	padding: 85px 0;
+	text-align: center;
+}
+
+.titulo{
+	color: deeppink;
+	text-align: center;
+}
+
+#trabajos{
+	padding: 20px 10px;
+	background-color: black;
+}
+
+#trabajos-fotos{
+	margin: 60px 60px;
+	padding: 40px 40px;
+}
+
+#trabajos-fotos1{
+	margin: 60px 60px;
+	padding: 40px 40px;
+}
+
+#trabajos-fotos2{
+	margin: 60px 60px;
+	padding: 40px 40px;
+}
+
+footer{
+	padding: 20px;
+	background-color: black;
+}
